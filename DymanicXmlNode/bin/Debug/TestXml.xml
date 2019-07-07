@@ -1,0 +1,14 @@
+ <Root>
+   <StringNode attribute ="AttributeValue">StringNodeValue</StringNode>
+
+   <ParentNode>
+     <IntNode>12345</IntNode>
+   </ParentNode>
+
+   <ListNode>
+     <Item>1</Item>
+     <Item>2</Item>
+     <Item>3</Item>
+     <Item>4</Item>
+   </ListNode>
+</Root>

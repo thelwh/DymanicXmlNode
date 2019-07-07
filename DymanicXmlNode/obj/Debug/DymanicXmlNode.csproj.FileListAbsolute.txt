@@ -1,0 +1,6 @@
+E:\Code\MyProject\C#\DymanicXmlNode\DymanicXmlNode\bin\Debug\DymanicXmlNode.exe
+E:\Code\MyProject\C#\DymanicXmlNode\DymanicXmlNode\bin\Debug\DymanicXmlNode.pdb
+E:\Code\MyProject\C#\DymanicXmlNode\DymanicXmlNode\obj\Debug\DymanicXmlNode.csprojAssemblyReference.cache
+E:\Code\MyProject\C#\DymanicXmlNode\DymanicXmlNode\obj\Debug\DymanicXmlNode.csproj.CoreCompileInputs.cache
+E:\Code\MyProject\C#\DymanicXmlNode\DymanicXmlNode\obj\Debug\DymanicXmlNode.exe
+E:\Code\MyProject\C#\DymanicXmlNode\DymanicXmlNode\obj\Debug\DymanicXmlNode.pdb
