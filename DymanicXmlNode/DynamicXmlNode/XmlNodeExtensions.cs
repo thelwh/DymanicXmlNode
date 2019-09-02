@@ -12,5 +12,10 @@ namespace DymanicXmlNode
         {
             return new DynamicXmlNode(node);
         }
+
+        public static DynamicXmlNode ToDynamic(this XmlDocument xmlDoc)
+        {
+            return new DynamicXmlNode(xmlDoc.DocumentElement);
+        }
     }
 }

@@ -17,7 +17,7 @@ namespace DymanicXmlNode
             string stringValue = rootNode.StringNode;
             Console.WriteLine(stringValue);//StringNodeValue
 
-            string attributeValue = rootNode.StringNode["attribute"];
+            int attributeValue = rootNode.StringNode["attribute"];
             Console.WriteLine(attributeValue);//AttributeValue
 
             int intValue = rootNode.ParentNode.IntNode;

@@ -1,5 +1,5 @@
  <Root>
-   <StringNode attribute ="AttributeValue">StringNodeValue</StringNode>
+   <StringNode attribute ="123">StringNodeValue</StringNode>
 
    <ParentNode>
      <IntNode>12345</IntNode>
